@@ -9,6 +9,7 @@
   ],
   "dependencies": {
     "jquery": ">=2.1.1",
-    "jqueryui": ">=1.11.2"
+    "jqueryui": ">=1.11.2",
+    "datetimepicker": ">=2.4.1"
   }
 }
