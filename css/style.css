@@ -1,0 +1,27 @@
+body {
+    padding: 5px;
+}
+
+.search-box {
+    height: 25px;
+    padding: 2px 6px 0;
+    border: 1px solid #BBB;
+    float: left;
+    width: 200px;
+}
+
+.search-button {
+    position: absolute;
+    padding: 1px 4px 4px 2px;
+    cursor: pointer;
+    float: left;
+    margin-left: 200px;
+}
+
+.search-icon {
+    margin-top: 2px;
+}
+
+.search-toolbar {
+    padding: 5px;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "search-box",
+  "version": "0.0.1",
+  "ignore": [
+    ".bowerrc",
+    ".gitignore",
+    ".jshintrc",
+    "bower.json"
+  ],
+  "dependencies": {
+    "jquery": ">=2.1.1",
+    "jqueryui": ">=1.11.2"
+  }
+}
